@@ -7,7 +7,7 @@ import edu.narxoz.RPG.decorator.FireAttackDecorator;
 import edu.narxoz.RPG.decorator.PoisonAttackDecorator;
 import edu.narxoz.RPG.enemy.Enemy;
 import edu.narxoz.RPG.facade.DungeonFacade;
-import edu.narxoz.RPg.hero.Hero;
+import edu.narxoz.RPG.hero.Hero;
 
 public class Main {
     public static void main(String[] args) {
